@@ -9,6 +9,7 @@ super-agent-learn 是 DSH SuperAgent 的学习与实验项目，用于探索和�
 ```
 super-agent-learn/
 ├── README.md          # 项目说明文档
+├── hello.py           # 输出 Hello, SuperAgent
 └── ...                # 后续学习模块与示例代码
 ```
 
